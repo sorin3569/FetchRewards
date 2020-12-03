@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca6c5498-09fc-4cf4-b35b-33cd08c5cc47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l1mTEiI74GgAiSVPPNT6no8yJ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.14746094" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/target/test_classes/features" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Fb_Login_Process">
+    <configuration name="Feature: Fb_Login_Process" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Fb_Login_Process.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Fetch_Rewards" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Fb_Login_Process" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with email" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Fb_Login_Process.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Fetch_Rewards" />
+      <option name="NAME_FILTER" value="^Login with email$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Login with email$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fetch_Rewards" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Fb_Login_Process" />
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber java.Scenario: Login with email" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca6c5498-09fc-4cf4-b35b-33cd08c5cc47" name="Default Changelist" comment="" />
+      <created>1606772976380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606772976380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1526" y="420" key="#Project_Structure" timestamp="1606787383093">
+      <screen x="61" y="22" width="2499" height="1418" />
+    </state>
+    <state x="1526" y="420" key="#Project_Structure/2560.22.1280.1002/61.22.2499.1418@61.22.2499.1418" timestamp="1606787383093" />
+    <state x="1527" y="420" key="#Project_Structure/2560.22.1280.1002/63.22.2497.1418@63.22.2497.1418" timestamp="1606773685728" />
+    <state x="1299" y="660" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606792207199">
+      <screen x="61" y="22" width="2499" height="1418" />
+    </state>
+    <state x="1299" y="660" key="#com.intellij.fileTypes.FileTypeChooser/2560.22.1280.1002/61.22.2499.1418@61.22.2499.1418" timestamp="1606792207199" />
+    <state width="2423" height="491" key="GridCell.Tab.0.bottom" timestamp="1606968713354">
+      <screen x="50" y="22" width="2510" height="1418" />
+    </state>
+    <state width="2423" height="491" key="GridCell.Tab.0.bottom/2560.22.1280.1002/50.22.2510.1418@50.22.2510.1418" timestamp="1606968713354" />
+    <state width="2284" height="439" key="GridCell.Tab.0.bottom/2560.22.1280.1002/51.22.2509.1418@51.22.2509.1418" timestamp="1606967806921" />
+    <state width="2248" height="254" key="GridCell.Tab.0.bottom/2560.22.1280.1002/55.22.2505.1418@55.22.2505.1418" timestamp="1606954291358" />
+    <state width="2423" height="491" key="GridCell.Tab.0.center" timestamp="1606968713350">
+      <screen x="50" y="22" width="2510" height="1418" />
+    </state>
+    <state width="2423" height="491" key="GridCell.Tab.0.center/2560.22.1280.1002/50.22.2510.1418@50.22.2510.1418" timestamp="1606968713350" />
+    <state width="2284" height="439" key="GridCell.Tab.0.center/2560.22.1280.1002/51.22.2509.1418@51.22.2509.1418" timestamp="1606967806918" />
+    <state width="2248" height="254" key="GridCell.Tab.0.center/2560.22.1280.1002/55.22.2505.1418@55.22.2505.1418" timestamp="1606954291357" />
+    <state width="2423" height="491" key="GridCell.Tab.0.left" timestamp="1606968713349">
+      <screen x="50" y="22" width="2510" height="1418" />
+    </state>
+    <state width="2423" height="491" key="GridCell.Tab.0.left/2560.22.1280.1002/50.22.2510.1418@50.22.2510.1418" timestamp="1606968713349" />
+    <state width="2284" height="439" key="GridCell.Tab.0.left/2560.22.1280.1002/51.22.2509.1418@51.22.2509.1418" timestamp="1606967806916" />
+    <state width="2248" height="254" key="GridCell.Tab.0.left/2560.22.1280.1002/55.22.2505.1418@55.22.2505.1418" timestamp="1606954291356" />
+    <state width="2423" height="491" key="GridCell.Tab.0.right" timestamp="1606968713352">
+      <screen x="50" y="22" width="2510" height="1418" />
+    </state>
+    <state width="2423" height="491" key="GridCell.Tab.0.right/2560.22.1280.1002/50.22.2510.1418@50.22.2510.1418" timestamp="1606968713352" />
+    <state width="2284" height="439" key="GridCell.Tab.0.right/2560.22.1280.1002/51.22.2509.1418@51.22.2509.1418" timestamp="1606967806920" />
+    <state width="2248" height="254" key="GridCell.Tab.0.right/2560.22.1280.1002/55.22.2505.1418@55.22.2505.1418" timestamp="1606954291357" />
+    <state x="1233" y="405" key="run.anything.popup" timestamp="1606786800076">
+      <screen x="61" y="22" width="2499" height="1418" />
+    </state>
+    <state x="1233" y="405" key="run.anything.popup/2560.22.1280.1002/61.22.2499.1418@61.22.2499.1418" timestamp="1606786800076" />
+  </component>
+</project>
